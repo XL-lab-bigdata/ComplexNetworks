@@ -1,2 +1,0 @@
-下载网址：https://snap.stanford.edu/data/roadNet-CA.txt.gz
-SNAP上的California road network (roadNet‑CA.txt)数据集，该数据集包含约197万个节点、553万条无向边。
