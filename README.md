@@ -35,7 +35,7 @@
 # 相关资源
 <!-- 第二行 -->
 <p align="center">
-  <img src="images/covers/4.jpg" width="30%" title="" alt="图片4">
+  <img src="images/4.jpg" width="30%" title="" alt="图片4">
 </p>
 
 <p align="center">
@@ -46,9 +46,9 @@
 
 <!-- 第三行 -->
 <p align="center">
-  <img src="images/covers/5.jpg" width="30%" title="" alt="图片5">
-  <img src="images/covers/6.jpg" width="30%" title="" alt="图片6">
-  <img src="images/covers/7.jpg" width="30%" title="" alt="图片7">
+  <img src="images/5.jpg" width="30%" title="" alt="图片5">
+  <img src="images/6.jpg" width="30%" title="" alt="图片6">
+  <img src="images/7.jpg" width="30%" title="" alt="图片7">
 </p>
 
 <p align="center">
@@ -59,9 +59,9 @@
 
 <!-- 第四行 -->
 <p align="center">
-  <img src="images/covers/8.jpg" width="30%" title="" alt="图片8">
-  <img src="images/covers/9.jpg" width="30%" title="" alt="图片9">
-  <img src="images/covers/10.jpg" width="30%" title="" alt="图片10">
+  <img src="images/8.jpg" width="30%" title="" alt="图片8">
+  <img src="images/9.jpg" width="30%" title="" alt="图片9">
+  <img src="images/10.jpg" width="30%" title="" alt="图片10">
 </p>
 
 <p align="center">
