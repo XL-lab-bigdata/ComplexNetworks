@@ -20,7 +20,7 @@
 
 ## ✨知识总结全面
 本书每一章的末尾均提供了知识总结清单帮助读者梳理。
-<img width="671" height="668" alt="image" src="https://github.com/user-attachments/assets/f2a3db97-d547-44a5-b930-9b648d9eeb15" />
+<img width="3405" height="3816" alt="image" src="https://github.com/user-attachments/assets/f2a3db97-d547-44a5-b930-9b648d9eeb15" />
 
 ## 🏆随书资源丰富
 除了书中的内容，本书还提供了丰富的线上资源，包括案例数据集、代码集、课后习题，读者能够更灵活地实现案例复现，并进行自学和拓展。
