@@ -4,27 +4,27 @@
 
 ## 📖内容体系完备
 本书的内容结构精心设计，涵盖了复杂网络研究中的核心问题与关键方法。从经典模型到高级算法，从理论推导到实际应用，确保读者能够系统全面地掌握复杂网络的核心知识。
-<img width="1171" height="572" alt="image" src="https://github.com/user-attachments/assets/411adbbf-5a3d-4530-8b37-25863f452fb3" />
+<img width="2275" height="1099" alt="image" src="https://github.com/user-attachments/assets/5b2f4095-7759-4b49-8c41-bd37872f0264" />
 
 ## 📊算法原理透彻
 在讲解每一个算法时，本书注重算法的原理剖析，力求以深入浅出的方式讲解复杂的数学推导与算法设计，使读者不仅知其然，更知其所以然。
-<img width="1116" height="622" alt="image" src="https://github.com/user-attachments/assets/3878cc2e-f511-4304-9408-598d6ceaf2cd" />
+<img width="2053" height="1143" alt="image" src="https://github.com/user-attachments/assets/78e9e81c-1e07-41bd-9d99-2db8ad5a8ffb" />
 
 ## 📝实践案例丰富
 理论与实践相结合是本书的一大特色。本书精心挑选多个实践案例，读者能够更好地理解如何将所学知识应用到真实的数据分析任务中，增强实际操作能力。
-<img width="1118" height="599" alt="image" src="https://github.com/user-attachments/assets/28b26217-12de-4656-ba65-b3bef9f5ee72" />
+<img width="2013" height="1079" alt="image" src="https://github.com/user-attachments/assets/0e045672-6ac8-4ee2-8a9f-fc75927b0166" />
 
 ## ⚙️辅助元素多样
 为了帮助读者更好地理解和掌握内容，本书配有大量图表、代码示例以及概念定义、延伸阅读、算法流程、扩展说明、计算示例5种积木块，多样化的辅助元素使得学习过程更加直观和有趣。
-<img width="3751" height="2784" alt="图片2" src="https://github.com/user-attachments/assets/b7f486fc-e23a-4d61-acd5-715363ecfc56" />
+<img width="3751" height="2784" alt="image" src="https://github.com/user-attachments/assets/2dccbc00-6004-4f39-ad65-09f8476fa58e" />
 
 ## ✨知识总结全面
 本书每一章的末尾均提供了知识总结清单帮助读者梳理。
-<img width="3405" height="3816" alt="image" src="https://github.com/user-attachments/assets/f2a3db97-d547-44a5-b930-9b648d9eeb15" />
+<img width="1566" height="1565" alt="image" src="https://github.com/user-attachments/assets/c3ef7cb7-20b8-4c9a-9854-d225eba4e02b" />
 
 ## 🏆随书资源丰富
 除了书中的内容，本书还提供了丰富的线上资源，包括案例数据集、代码集、课后习题，读者能够更灵活地实现案例复现，并进行自学和拓展。
-<img width="3729" height="3210" alt="图片1" src="https://github.com/user-attachments/assets/562a54c4-68a1-4503-b21c-8c4f29945596" />
+<img width="1706" height="1426" alt="image" src="https://github.com/user-attachments/assets/c415b94e-7d5e-4404-9462-adf895dbf038" />
 
 ## 📨教辅资料齐全
 本书为教师提供了完整的教辅资料，包括教学大纲、电子课件、习题解答等，可通过封底联系方式向出版社索取。
